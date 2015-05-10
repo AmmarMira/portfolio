@@ -93,6 +93,7 @@ footer {
 	padding-top: 50px;
 	color: #ccc;
 	width: 100px;
+	white-space: nowrap;
 }
 
 .social-icon {
@@ -143,6 +144,9 @@ PAGE: CONTACT
 	margin: 0;
 	font-size: 0.9em;
 	
+}
+.general-info h3{
+	margin: 0;
 }
 
 /****************
